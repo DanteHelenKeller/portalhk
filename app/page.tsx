@@ -52,7 +52,7 @@ export default function Home() {
               title="Alfabetización" 
               desc="Módulos de letras, sílabas y oraciones para primaria."
               emoji="🔤" badge="Nuevo" 
-              href="https://alfabetizacion2.vercel.app/" 
+              href="" 
               glow="rgba(85,239,196,0.3)" accent="#55EFC4" delay="0.1s"
             />
             <AppCard 
