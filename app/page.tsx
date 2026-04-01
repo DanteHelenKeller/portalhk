@@ -59,7 +59,7 @@ export default function Home() {
               title="EstímulaVisión" 
               desc="Ejercicios de contraste y seguimiento ocular."
               emoji="👁️" badge="Popular" 
-              href="https://estimulacionvisual.vercel.app/"
+              href=""
               glow="rgba(255,150,60,0.3)" accent="#FF963C" delay="0.2s"
             />
             <AppCard 
